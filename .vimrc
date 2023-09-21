@@ -1,4 +1,5 @@
 imap jk <esc>
+map <C-n> :NERDTreeToggle<CR>
 
 set relativenumber
 set nocompatible
